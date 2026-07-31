@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Răzvan Cănuci 👋
+
+I'm a software engineer with 5 years of experience building React, Vue, Node.js, and ASP.NET applications. I'm currently focused on backend performance, automation, and developer tooling, while growing my skills in AI, ML, and Rust.
+
+**Tech I work with:** C#, .NET, TypeScript, Node.js, Vue, SQL databases, AWS, Docker
+
+**Reach me:** [LinkedIn](https://www.linkedin.com/in/razvan-canuci/) · [razvancanuci.github.io](https://razvancanuci.github.io/)
 
 <!--
 **razvancanuci/razvancanuci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
